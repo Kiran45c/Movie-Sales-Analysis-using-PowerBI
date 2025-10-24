@@ -37,17 +37,20 @@ The dataset includes the following fields:
 ## 📈 Dashboard Sections & Key Questions
 
 ### 1. Movie Overview & Time Trends
-![Movie Overview](<img width="2343" height="1346" alt="Screenshot 2025-10-24 124324" src="https://github.com/user-attachments/assets/a9453f4d-2d83-41d1-99ac-a46c819e7490" />
+(<img width="2343" height="1346" alt="Screenshot 2025-10-24 124324" src="https://github.com/user-attachments/assets/a9453f4d-2d83-41d1-99ac-a46c819e7490" />
 )
 
 ### 2. Genre & Rating Analysis
-![Genre Analysis](screenshots/genre_analysis.png)
+(<img width="2334" height="1309" alt="Screenshot 2025-10-24 124342" src="https://github.com/user-attachments/assets/33169a91-0be8-4e32-a0e9-f6ae72650501" />
+)
 
 ### 3. Top Performers & Box Office Insights
-![Top Performers](screenshots/top_performers.png)
+(<img width="2334" height="1334" alt="Screenshot 2025-10-24 124357" src="https://github.com/user-attachments/assets/afef4d49-af52-4447-a6b8-b5fb646e5f7f" />
+)
 
 ### 4. Correlation & Advanced Metrics
-![Correlation Metrics](screenshots/correlation_metrics.png)
+(<img width="2341" height="1331" alt="Screenshot 2025-10-24 124411" src="https://github.com/user-attachments/assets/12aac7cd-cd8d-4ca0-a944-96b717bf2be6" />)
+
 
 
 
