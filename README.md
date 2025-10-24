@@ -52,6 +52,9 @@ The dataset includes the following fields:
 (<img width="2341" height="1331" alt="Screenshot 2025-10-24 124411" src="https://github.com/user-attachments/assets/12aac7cd-cd8d-4ca0-a944-96b717bf2be6" />)
 
 
+### Powerbi Dashboard
+<a href ="https://github.com/Kiran45c/Movie-Sales-Analysis-using-PowerBI/blob/main/dataset%5B1%5D.pbix">Dasboard</a>
+
 
 
 ## 🛠️ Tools & Techniques
