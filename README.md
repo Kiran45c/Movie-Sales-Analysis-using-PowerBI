@@ -17,6 +17,7 @@ This dashboard analyzes 1,000 movies across multiple dimensions including revenu
 
 ## 📁 Dataset Description
 
+
 The dataset includes the following fields:
 
 | Column Name         | Description                                                  |
@@ -34,7 +35,9 @@ The dataset includes the following fields:
 | Revenue (Millions)  | Total box office revenue in millions USD                     |
 | Metascore           | Metacritic score (0–100 scale)                               |
 
-## 📈 Dashboard Sections & Key Questions
+
+<a href="https://github.com/Kiran45c/Movie-Sales-Analysis-using-PowerBI/blob/main/IMDB-Movie-Data%20(1).csv">Dataset</a>
+## 📈 Dashboard Sections 
 
 ### 1. Movie Overview & Time Trends
 (<img width="2343" height="1346" alt="Screenshot 2025-10-24 124324" src="https://github.com/user-attachments/assets/a9453f4d-2d83-41d1-99ac-a46c819e7490" />
